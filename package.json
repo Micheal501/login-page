@@ -1,0 +1,14 @@
+{
+  "name": "login-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Micheal501/login-page.git",
+  "author": "owen <mowen8983@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
